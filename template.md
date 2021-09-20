@@ -6,7 +6,7 @@
 
 
 <!-- Quote -->
-<p align="center">Some words that could describe you.
+<p align="center">Some words that could describe you, below you can share your socials networks.
   
   <!-- Social Network -->
 <h1 align="center">
@@ -46,19 +46,9 @@
   </a>
 </h1>
 
-
-
-
-<!-- Background -->
-
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
-
-&nbsp;
-
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
+  Here you can change the icons, use only those useful for you and remove those innecessary
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
@@ -87,19 +77,6 @@
   
 &nbsp;  
 
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
-  
-  </p>
-&nbsp;
-
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈
   </strong>
@@ -110,10 +87,12 @@
 
 <!-- These are my Stadistics , you Only need to replace my Username(rogeralbp) for yours -->
 
+If you want to use other stats you can check the [amazing repo](https://github.com/anuraghazra/github-readme-stats) of these !!
+
 <a href="https://github.com/rogeralbp?tab=repositories">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeralbp&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       alt='Roger' favorite languages" />
 </a>
   
 <a href="https://github.com/rogeralbp">
