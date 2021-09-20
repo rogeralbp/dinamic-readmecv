@@ -1,13 +1,13 @@
-# Table of contents
+# Dinamic Readme as CV / Resume
 
-## Posible Result
+## Table of contents
 
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
 3. [Possible Result](#paragraph2)
 
 ## First Step <a name="introduction"></a>
-I recommend downloading the markdown file named template or copying its content, there you will find everything you need to be able to create a dynamic markdown
+I recommend downloading the markdown file [template](https://github.com/rogeralbp/dinamic-readmecv/blob/master/template.md) or copying its content, there you will find everything you need to be able to create a dynamic markdown
 
 what they don't need they can remove, what they need they update to their preference.
 
